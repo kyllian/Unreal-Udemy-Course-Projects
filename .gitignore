@@ -6,4 +6,5 @@ BuildingEscape/Binaries/
 BuildingEscape/Build/
 BuildingEscape/Intermediate/
 BuildingEscape/Saved/
+BuildingEscape/Content/StarterContent/
 *.db

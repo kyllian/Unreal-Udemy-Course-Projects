@@ -7,4 +7,4 @@ BuildingEscape/Build/
 BuildingEscape/Intermediate/
 BuildingEscape/Saved/
 BuildingEscape/Content/StarterContent/
-*.db
+*.VC.db

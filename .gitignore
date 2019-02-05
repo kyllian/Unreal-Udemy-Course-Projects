@@ -7,6 +7,6 @@ BuildingEscape/Build/
 BuildingEscape/Intermediate/
 BuildingEscape/Saved/
 BuildingEscape/Content/StarterContent/
-*.VC.db
+*.VC.db*
 BuildingEscape/.vs/BuildingEscape/v15/ipch/
 *.VC.opendb
